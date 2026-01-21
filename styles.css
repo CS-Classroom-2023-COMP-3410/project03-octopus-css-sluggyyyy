@@ -1,0 +1,64 @@
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    margin: 0;
+}
+
+#header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+#main-content {
+    background-color: white;
+    padding: 40px;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+.important {
+    color: orange;
+}
+
+#quiz-section {
+    background-color: lightblue;
+    padding: 30px;
+}
+
+#quiz-section img {
+    float: right;
+}
+
+#species-table {
+    background-color: white;
+    padding: 40px;
+}
+
+table {
+    border: 1px solid black;
+}
+
+th {
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+#footer {
+    background-color: lightgray;
+    padding: 20px 40px;
+}
